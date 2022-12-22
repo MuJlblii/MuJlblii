@@ -1,5 +1,5 @@
 ## Hi 👋 I`m Ihar Pavetka
-<a href="www.linkedin.com/in/884580231" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://www.linkedin.com/in/884580231" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 ### 💻 About me:
 I am a Junior FrontEnd developer (JS/TS/React).
