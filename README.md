@@ -65,6 +65,18 @@ I am a FrontEnd developer (JS/TS/React/NextJS).
   
 </details>
 
+<details><summary>Todos (test task)</summary>
+
+  <br/>
+  
+  Stack: React, HTML, pure CSS, created without state manager libraries.
+
+  Deploy link - https://mujlblii.github.io/todos_test/
+
+  Repo link - https://github.com/MuJlblii/todos_test/tree/develop
+  
+</details>
+
 and other projects...
 
 
